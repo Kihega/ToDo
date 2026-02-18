@@ -19,6 +19,7 @@ A simple To-Do List application built with Flutter. It supports:
 
 ## How to Run
 
+
 ### Prerequisites
 - Flutter SDK installed
 - Android Studio (or VS Code) + Android emulator / physical device
